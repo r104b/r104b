@@ -40,7 +40,6 @@ Additional tools: Quartus II, KiCAD, Jira, Microsoft 365, Power BI, SharePoint, 
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=r104b&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r104b&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
