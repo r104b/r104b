@@ -1,15 +1,17 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Hello,+I'm+Rhea.;Software+Developer+%7C+Software+Engineering+Student." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Rhea.;Software+Developer+%7C+Software+Engineering+Student." />
 </p>
 
 ---
 
-## About Me
+## About Me ⭐💫
 
 I'm a Software Engineering student at TMU with software development experience. I love building, designing, and making the most random personal projects
 
-My interests lie in systems programming, backend production, and cloud developement. I also have a fine arts portfolio on the side, check it out!
+My interests lie in systems programming, backend production, and cloud developement. I also have a fine arts portfolio on the side, check it out! 
+
+https://rb-art-portfolio.carrd.co/
 
 ---
 
@@ -17,7 +19,7 @@ My interests lie in systems programming, backend production, and cloud developem
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,ts,js,rust,sql,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,ts,js,rust,css" />
 </p>
 
 ### Frameworks & Libraries
