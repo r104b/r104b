@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Rhea.;Software+Developer+%7C+Software+Engineering+Student." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Rhea.;Software+Developer." />
 </p>
 
 ---
@@ -53,7 +53,7 @@ Additional tools: Quartus II, KiCAD, Jira, Microsoft 365, Power BI, SharePoint, 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rhea-braich06/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://rb-art-portfolio.carrd.co/"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://github.com/r104b"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="mailto:rh.braich@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
