@@ -33,11 +33,14 @@ https://rb-art-portfolio.carrd.co/
 </p>
 
 ### Business & Ops
-<p>
-  <image src="https://skillicons.dev/icons?i=jira" />
-</p>
-    
-Additional tools: Quartus II, KiCAD, Jira, Microsoft Office, Power BI, SharePoint, Confluence, Arduino, Raspberry pi, FPGA, Multisim, Soldering, Welding, Lathe
+
+Jira, Microsoft Office, Sharepoint, Confluence, Power BI
+
+### Other
+
+Software/Hardware: Quartus II, KiCAD, Arduino, Raspberry pi, FPGA, Multisim
+
+Manufacturing: Soldering, Welding, Lathe work
 
 ---
 
