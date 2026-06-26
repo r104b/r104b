@@ -24,7 +24,7 @@ https://rb-art-portfolio.carrd.co/
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,postgres" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,postgres,tauri" />
 </p>
 
 ### Tools & Platforms
