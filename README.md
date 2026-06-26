@@ -32,7 +32,7 @@ https://rb-art-portfolio.carrd.co/
   <img src="https://skillicons.dev/icons?i=git,docker,linux,aws" />
 </p>
 
-Additional tools: Quartus II, KiCAD, Jira, Microsoft 365, Power BI, SharePoint, Confluence, Kicad, Multisim
+Additional tools: Quartus II, KiCAD, Jira, Microsoft 365, Power BI, SharePoint, Confluence, Arduino, Multisim, Soldering, Welding, Lathe
 
 ---
 
