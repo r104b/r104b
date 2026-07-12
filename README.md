@@ -7,7 +7,7 @@
 
 ## About Me ⭐💫
 
-I'm a Software Engineering student at TMU with software development experience. I love building, designing, and making the most random personal projects
+I'm a Software Engineering student at TMU with software development experience. I love building, designing, and making fun projects.
 
 My interests lie in systems programming, backend production, and cloud developement. I also have a fine arts portfolio on the side, check it out! 
 
